@@ -1,0 +1,26 @@
+# Ignore system junk files
+NTUSER.DAT*
+ntuser.*
+*.regtrans-ms
+*.blf
+*.ini
+
+# Ignore system folders
+Favorites/
+Links/
+Microsoft/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Tracing/
+Videos/
+PCAppStore/
+anaconda3/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
